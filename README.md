@@ -1,3 +1,2 @@
-#!/bin/bash
-
-This repo contains basic concepts on shell
+     1	#!/bin/bash$
+     2	Learning the basics of shell$
